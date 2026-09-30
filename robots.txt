@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://999921.com/sitemap.xml
